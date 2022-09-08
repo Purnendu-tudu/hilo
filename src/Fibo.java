@@ -57,7 +57,7 @@ class Fibonaci {
 
         OnlySimpleFibo new_fibo_serires = new OnlySimpleFibo();
 
-        new_fibo_serires.no_times = 20; // set the no_times as you need
+        new_fibo_serires.no_times = 22; // set the no_times as you need
         new_fibo_serires.SimpleFiboPrint();
         new_fibo_serires.PrimeFiboPrint();
 
